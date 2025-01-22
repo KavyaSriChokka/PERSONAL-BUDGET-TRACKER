@@ -1,0 +1,8 @@
+matplotlib
+seaborn
+pandas
+numpy
+bcrypt      # For secure password storage
+smtplib     # For email notifications
+tkinter     # For GUI (if applicable)
+PyQt5       # For more advanced GUI (if applicable)
